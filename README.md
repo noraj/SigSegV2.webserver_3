@@ -11,7 +11,7 @@ Information displayed for CTF players:
 + **Name of the challenge** / **Nom du challenge**: `Image Checker 1`
 + **Category** / **Catégorie**: `Web`
 + **Internet**: not needed
-+ **Difficulty** / **Difficulté**: difficult / difficile
++ **Difficulty** / **Difficulté**: hard / difficile
 
 ### Description
 

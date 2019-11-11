@@ -1,4 +1,4 @@
-# XXE OOB via SVG rasterization
+# XXE OOB via SVG rasterization (local file read)
 
 ## Version
 

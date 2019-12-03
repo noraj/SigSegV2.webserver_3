@@ -69,3 +69,9 @@ Legit SVG example: https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_ico
 ## Flag
 
 `sigsegv{S0_you_4re_4_XXE_m4st3r_t00}`
+
+## SigSegV2
+
+A web challenge that was available during SigSegV2 CTF (2019).
+
+5 teams on 36 flaged this challenge.
